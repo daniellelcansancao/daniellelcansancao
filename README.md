@@ -1,16 +1,23 @@
-## Hi there 👋
+Olá, meu nome é Danielle Cansanção!
 
-<!--
-**daniellelcansancao/daniellelcansancao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante e autodidata na área de **Dados**.  
+💡 Apaixonada por transformar dados em conhecimento e insights.  
+📚 Atualmente estudando **Python** e **SQL** para análise e manipulação de dados. E **Power BI** para criação de relatórios e dashboards.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+- 🐍 Python 
+- 🗃️ SQL 
+- 🧰 Git e GitHub
+- 📊 Power BI e Excel
+- 🗄️ Bancos de Dados: SQLite, MySQL
+
+---
+
+### 📫 Contatos
+
+- 📧 Email: danicansancao@hotmail.com
+- 💼 LinkedIn: www.linkedin.com/in/danielle-lago-cansancao
