@@ -20,4 +20,4 @@ Olá, meu nome é Danielle Cansanção!
 ### 📫 Contatos
 
 - 📧 [Email](danicansancao@hotmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/danielle-lago-cansancao/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/danielle-lago-cansancao/)
